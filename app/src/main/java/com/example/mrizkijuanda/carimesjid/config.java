@@ -17,7 +17,7 @@ public class config {
     public static final String URL_GET_ALL_ACEHJAYA="http://android.jones.id/getALLAcehJaya.php";
     public static final String URL_GET_ACEHJAYA="http://android.jones.id/getAcehJaya.php?id=";
 
-    //JSON Tags..
+    //JSON Tags...
     public static final String TAG_JSON_ARRAY="result";
     public static final String TAG_ID = "id";
     public static final String TAG_NAMA = "nama";
