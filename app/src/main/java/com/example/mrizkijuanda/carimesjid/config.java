@@ -1,6 +1,6 @@
 package com.example.mrizkijuanda.carimesjid;
 
-\
+
 public class config {
     public static final String URL_GET_ALL_BANDAACEH="http://android.jones.id/getALLBandaAceh.php";
     public static final String URL_GET_BANDAACEH="http://android.jones.id/getBandaAceh.php?id=";
