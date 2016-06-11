@@ -5,7 +5,7 @@ public class config {
     public static final String URL_GET_ALL_BANDAACEH="http://android.jones.id/getALLBandaAceh.php";
     public static final String URL_GET_BANDAACEH="http://android.jones.id/getBandaAceh.php?id=";
 
-
+//jjasnasdlsmda;
     public static final String URL_GET_ALL_ACEHBESAR="http://android.jones.id/getALLAcehBesar.php";
     public static final String URL_GET_ACEHBESAR="http://android.jones.id/getAcehBesar.php?id=";
 
@@ -13,7 +13,7 @@ public class config {
     public static final String URL_GET_ALL_PIDIE="http://android.jones.id/getALLPidie.php";
     public static final String URL_GET_PIDIE="http://android.jones.id/getPidie.php?id=";
 
-
+//hhhhhhhhksk
     public static final String URL_GET_ALL_ACEHJAYA="http://android.jones.id/getALLAcehJaya.php";
     public static final String URL_GET_ACEHJAYA="http://android.jones.id/getAcehJaya.php?id=";
 
